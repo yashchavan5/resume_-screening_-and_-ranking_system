@@ -1,5 +1,5 @@
 # resume_-screening_-and_-ranking_system
-# AI Resume Screening and Ranking System
+
 
 ## Overview
 The AI Resume Screening and Ranking System is an intelligent solution designed to streamline the recruitment process by automatically analyzing, screening, and ranking resumes based on job requirements. This system reduces the manual effort of HR professionals and hiring managers while improving candidate selection efficiency and accuracy.
