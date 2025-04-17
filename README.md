@@ -205,9 +205,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Yash Chavan - yashchavanpatil1@gmail.com
+Yash Chavan Email id - yashchavanpatil1@gmail.com
 
-Project Link: https://github.com/yashchavan5/ai-resume-screening
+Project Link: [https://github.com/yashchavan5/ai-resume-screening](https://github.com/yashchavan5/resume_-screening_-and_-ranking_system/tree/main)
 
 ## Acknowledgments
 - All open-source libraries used in this project
